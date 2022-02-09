@@ -1,6 +1,7 @@
 # SubjectAPI
  A demo API for selecting ur couse of study based on what subject u like <br>
 Access the API at: https://subjectapi-lioncat2002.vercel.app/
+Demo front end: https://lioncat2002.github.io/SubjectAPI.py/
 
 ## Endpoints:
 - `/` return a hello world
